@@ -15,3 +15,5 @@ Feel free to contribute a pull request with new features or fixes.
 - [ ] Pen line to exits
 - [ ] Improve graphics/picture box algorithm, (add dispose, optimize things)
 - [ ] Better memory reading abstractions and structure
+- [ ] Add configuration for movement, colors, settings
+- [ ] Add hotkeys to toggle
