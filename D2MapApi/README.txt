@@ -1,0 +1,1 @@
+﻿Downloaded from https://github.com/jcageman/d2mapapi/releases/tag/1.0
