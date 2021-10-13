@@ -1,5 +1,7 @@
 # D2RAssist
 
+Join the discussion: https://discord.gg/N4sCN7ByUs
+
 Released because the source code was leaked in only 24 hours.
 
 Feel free to contribute a pull request with new features or fixes.
