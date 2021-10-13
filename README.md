@@ -5,6 +5,7 @@ Released because the source code was leaked in only 24 hours.
 Feel free to contribute a pull request with new features or fixes.
 
 **Suggestions/Roadmap**
+- [ ] Write a guide to install Diablo 2 1.13 and use D2MapApi
 - [ ] Better class/variable/file names
 - [ ] Seperation of concerns for data / form
 - [ ] General refactoring
