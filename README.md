@@ -4,6 +4,8 @@ Join the discussion: https://discord.gg/N4sCN7ByUs
 
 Feel free to contribute a pull request with new features or fixes, the code is under GPL so make sure to please follow the license.
 
+**Donations**: BTC: 361pk9AHfTpWY2xVyrHgMGHsHEavDWb872
+
 **Suggestions/Roadmap**
 - [ ] Write a guide to install Diablo 2 1.13 and use D2MapApi
 - [ ] Better class/variable/file names
